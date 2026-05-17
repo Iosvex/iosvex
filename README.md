@@ -2,7 +2,7 @@
 
 ![banner](https://raw.githubusercontent.com/iosvex/iosvex/main/banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=This+world+is+rotten...+so+I+decided+to+fix+it+with+code.;I+will+become+the+god+of+the+new+tech+world.;No+one+can+catch+me.+I+am+Justice.;Vex+has+won.+Just+as+planned.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=This+world+is+rotten...+so+I+decided+to+fix+it+with+code.;I+will+build+what+others+only+talk+about.;No+one+can+catch+me.+I+am+Justice.;Vex+has+won.+Just+as+planned.)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 <table align="center" border="0" cellpadding="20">
 <tr>
 <td width="180" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/iosvex/iosvex/main/wings.webp" width="160"/>
+<img src="https://raw.githubusercontent.com/iosvex/iosvex/main/vex-emblem.svg" width="160" alt="Vex emblem" />
 </td>
 <td valign="top">
 
@@ -23,17 +23,16 @@
 
 Class 11. Commerce + CS. Full-time problem solver.
 
-I code by vibe — if it feels right, I build it.
-If it's boring, I automate it. If it's hard,
-I use AI to cheat my way through it faster
-than most people understand the problem.
+I code by vibe — if it feels right, I build it.  
+If it's boring, I automate it. If it's hard,  
+I use AI to get through it faster than most people understand the problem.
 
-I don't grind. I leverage.
-Python and C++ are my weapons.
+I don't grind. I leverage.  
+Python and C++ are my weapons.  
 AI is my unfair advantage.
 
-I'm not here to learn slowly.
-I'm here to figure out the fastest path
+I'm not here to learn slowly.  
+I'm here to figure out the fastest path  
 from zero to something that actually works.
 
 </td>
@@ -50,14 +49,14 @@ from zero to something that actually works.
 <tr>
 <td valign="top">
 
-[![ai-experiments](https://img.shields.io/badge/🤖_ai--experiments-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iosvex/ai-experiments)
-&nbsp; Hands-on AI models I build to understand, not just use.
+[![ai-experiments](https://img.shields.io/badge/🤖_ai--experiments-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iosvex/ai-experiments)  
+Hands-on AI models I build to understand, not just use.
 
-[![vex-bot](https://img.shields.io/badge/🧠_vex--bot-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iosvex/vex-bot)
-&nbsp; Automation scripts. Because repetition is for machines.
+[![vex-bot](https://img.shields.io/badge/🧠_vex--bot-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iosvex/vex-bot)  
+Automation scripts. Because repetition is for machines.
 
-[![cpp-systems](https://img.shields.io/badge/⚙️_cpp--systems-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iosvex/cpp-systems)
-&nbsp; Low-level C++ projects. I like knowing what's underneath.
+[![cpp-systems](https://img.shields.io/badge/⚙️_cpp--systems-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iosvex/cpp-systems)  
+Low-level C++ projects. I like knowing what's underneath.
 
 </td>
 <td width="120" align="center" valign="middle">
