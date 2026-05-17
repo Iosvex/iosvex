@@ -15,7 +15,7 @@
 <table align="center" border="0" cellpadding="20">
 <tr>
 <td width="180" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/iosvex/iosvex/main/vex-emblem.svg" width="160" alt="Vex emblem" />
+<img src="https://raw.githubusercontent.com/iosvex/iosvex/main/wings.gif" width="160" alt="Vex emblem" />
 </td>
 <td valign="top">
 
@@ -57,11 +57,6 @@ Automation scripts. Because repetition is for machines.
 
 [![cpp-systems](https://img.shields.io/badge/⚙️_cpp--systems-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iosvex/cpp-systems)  
 Low-level C++ projects. I like knowing what's underneath.
-
-</td>
-<td width="120" align="center" valign="middle">
-
-![fire](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png)
 
 </td>
 </tr>
