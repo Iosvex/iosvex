@@ -1,8 +1,10 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/iosvex/iosvex/main/banner.png)
+<img src="https://raw.githubusercontent.com/iosvex/iosvex/main/banner.png" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=This+world+is+rotten...+so+I+decided+to+fix+it+with+code.;I+will+build+what+others+only+talk+about.;No+one+can+catch+me.+I+am+Justice.;Vex+has+won.+Just+as+planned.)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=This+world+is+rotten...+so+I+decided+to+fix+it+with+code.;Build+fast.+Think+deeper.;No+one+can+catch+me.+I+am+Justice.;Vex+has+won.+Just+as+planned.)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,57 +12,68 @@
 
 <h2 align="center">Know About Me</h2>
 
-<br>
-
-<table align="center" border="0" cellpadding="20">
+<table width="100%">
 <tr>
-<td width="180" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/iosvex/iosvex/main/wings.gif" width="160" alt="Vex emblem" />
-</td>
-<td valign="top">
 
-**Hey. I'm Aaditya Kharakwal — call me Vex.**
+<td width="42%" align="center" valign="middle">
 
-Class 11. Commerce + CS. Full-time problem solver.
-
-I code by vibe — if it feels right, I build it.  
-If it's boring, I automate it. If it's hard,  
-I use AI to get through it faster than most people understand the problem.
-
-I don't grind. I leverage.  
-Python and C++ are my weapons.  
-AI is my unfair advantage.
-
-I'm not here to learn slowly.  
-I'm here to figure out the fastest path  
-from zero to something that actually works.
+<img src="https://raw.githubusercontent.com/iosvex/iosvex/main/wings.gif" width="260"/>
 
 </td>
+
+<td width="58%" valign="middle">
+
+```python
+class Vex:
+
+    name = "Aaditya Kharakwal"
+    alias = "iosvex"
+
+    stream = "Commerce + CS"
+
+    languages = [
+        "Python",
+        "C++"
+    ]
+
+    philosophy = """
+    I don't grind blindly.
+    I build systems.
+    """
+
+    def mindset(self):
+        return [
+            "Leverage AI",
+            "Automate repetition",
+            "Move strategically",
+            "Build faster than others think"
+        ]
+```
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-<h2 align="center">Top Projects</h2>
+<h2 align="center">Projects</h2>
 
-<br>
+<div align="center">
 
-<table align="center" border="0" cellpadding="10">
-<tr>
-<td valign="top">
+<a href="https://github.com/iosvex/ai-experiments">
+<img src="https://img.shields.io/badge/AI_EXPERIMENTS-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![ai-experiments](https://img.shields.io/badge/🤖_ai--experiments-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iosvex/ai-experiments)  
-Hands-on AI models I build to understand, not just use.
+<a href="https://github.com/iosvex/vex-bot">
+<img src="https://img.shields.io/badge/VEX_BOT-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![vex-bot](https://img.shields.io/badge/🧠_vex--bot-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iosvex/vex-bot)  
-Automation scripts. Because repetition is for machines.
+<a href="https://github.com/iosvex/cpp-systems">
+<img src="https://img.shields.io/badge/CPP_SYSTEMS-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![cpp-systems](https://img.shields.io/badge/⚙️_cpp--systems-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iosvex/cpp-systems)  
-Low-level C++ projects. I like knowing what's underneath.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -68,12 +81,7 @@ Low-level C++ projects. I like knowing what's underneath.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-0d1117?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,git,github,vscode"/>
 
 </div>
 
@@ -83,10 +91,21 @@ Low-level C++ projects. I like knowing what's underneath.
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total_Commits-312-white?style=for-the-badge&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/Public_Repos-18-white?style=for-the-badge&labelColor=0d1117)
-![Stars](https://img.shields.io/badge/Stars_Earned-47-white?style=for-the-badge&labelColor=0d1117)
-![Streak](https://img.shields.io/badge/Day_Streak-23-white?style=for-the-badge&labelColor=0d1117)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iosvex&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+
+<br><br>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iosvex&theme=black-ice&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
+
+</div>
+
+---
+
+<h2 align="center">Contribution Graph</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iosvex&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -96,31 +115,26 @@ Low-level C++ projects. I like knowing what's underneath.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iosvex)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iosvex)
-[![Twitter](https://img.shields.io/badge/TWITTER-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/iosvex)
-[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<a href="https://github.com/iosvex">
+<img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/iosvex">
+<img src="https://img.shields.io/badge/TWITTER-0d1117?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
-
-<br>
-
-> *"I understood the assignment. Everyone else is still reading the instructions."*
-
-> *"Every repo I push is a calculated move. I don't commit unless I mean it."*
 
 ---
 
-<h2 align="center">Contribution</h2>
-
 <div align="center">
 
-![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=iosvex&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&custom_title=Vex's%20Contribution%20Graph)
+> *"Every repo is a calculated move."*
 
-</div>
+<sub>iosvex • Aaditya Kharakwal • just as planned.</sub>
 
-<br>
-
-<div align="center">
-<sub>iosvex · Aaditya Kharakwal · just as planned.</sub>
 </div>
