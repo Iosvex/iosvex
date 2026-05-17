@@ -12,23 +12,20 @@
 
 <br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="20">
 <tr>
-<td width="200" align="center" valign="middle">
-
-![wings](https://raw.githubusercontent.com/iosvex/iosvex/main/wings.gif)
-
+<td width="180" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/iosvex/iosvex/main/wings.webp" width="160"/>
 </td>
-<td width="30"></td>
-<td valign="middle">
+<td valign="top">
 
 **Hey. I'm Aaditya Kharakwal — call me Vex.**
 
 Class 11. Commerce + CS. Full-time problem solver.
 
 I code by vibe — if it feels right, I build it.
-If it's boring, I automate it.
-If it's hard, I use AI to cheat my way through it faster
+If it's boring, I automate it. If it's hard,
+I use AI to cheat my way through it faster
 than most people understand the problem.
 
 I don't grind. I leverage.
@@ -49,7 +46,7 @@ from zero to something that actually works.
 
 <br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="10">
 <tr>
 <td valign="top">
 
@@ -63,7 +60,6 @@ from zero to something that actually works.
 &nbsp; Low-level C++ projects. I like knowing what's underneath.
 
 </td>
-<td width="40"></td>
 <td width="120" align="center" valign="middle">
 
 ![fire](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png)
@@ -93,8 +89,10 @@ from zero to something that actually works.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iosvex&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=888888&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosvex&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888" width="40%"/>
+![Commits](https://img.shields.io/badge/Total_Commits-312-white?style=for-the-badge&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/Public_Repos-18-white?style=for-the-badge&labelColor=0d1117)
+![Stars](https://img.shields.io/badge/Stars_Earned-47-white?style=for-the-badge&labelColor=0d1117)
+![Streak](https://img.shields.io/badge/Day_Streak-23-white?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
