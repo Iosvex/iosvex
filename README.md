@@ -11,7 +11,32 @@
 ---
 
 # 💫 About Me:
-<h3>Hey. I'm Aaditya Kharakwal — call me Vex.</h3><br><br>Class 11. Commerce + CS.  <br>I build systems, automate problems, and move faster with AI.<br><br><br><br><br>Most people waste time learning slowly.  <br>I prefer understanding patterns, exploiting leverage,  <br>and building things before others even understand them.<br><br><br><br><br>Python and C++ are my primary tools.  <br>AI is not a shortcut to me — it's force multiplication.<br><br><br><br><br>I like low-level systems, automation, strategy,  <br>minimal design, and technology that gives unfair advantages.<br><br><br><br><br>I don't chase motivation.  <br>I build momentum.<br><br><br><br><br>Right now I'm focused on:<br>- AI experiments<br>- automation systems<br>- backend logic<br>- C++ projects<br>- building useful things fast<br><br><br><br><br>The objective is simple:<br><br>Build. Learn. Adapt. Scale.
+Class 11. Commerce + CS.  
+I build systems, automate problems, and move faster with AI.
+
+Most people waste time learning slowly.  
+I prefer understanding patterns, exploiting leverage,  
+and building things before others even understand them.
+
+Python and C++ are my primary tools.  
+AI is not a shortcut to me — it's force multiplication.
+
+I like low-level systems, automation, strategy,  
+minimal design, and technology that gives unfair advantages.
+
+I don't chase motivation.  
+I build momentum.
+
+Right now I'm focused on:
+- AI experiments
+- automation systems
+- backend logic
+- C++ projects
+- building useful things fast
+
+The objective is simple:
+
+Build. Learn. Adapt. Scale.
 
 
 ## 🌐 Socials:
