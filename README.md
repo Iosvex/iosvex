@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iosvex/iosvex/main/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/iosvex/iosvex/main/banner.png" width="100%"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=This+world+is+rotten...+so+I+decided+to+fix+it+with+code.;Build+fast.+Think+deeper.;No+one+can+catch+me.+I+am+Justice.;Vex+has+won.+Just+as+planned.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1000&color=FFFFFF&center=true&vCenter=true&width=720&lines=This+world+is+rotten...+so+I+decided+to+fix+it+with+code.;I+will+become+the+god+of+the+new+tech+world.;No+one+can+catch+me.+I+am+Justice.;Vex+has+won.+Just+as+planned.)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,43 +12,39 @@
 
 <h2 align="center">Know About Me</h2>
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 
-<td width="42%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/iosvex/iosvex/main/wings.gif" width="260"/>
+<img src="https://raw.githubusercontent.com/iosvex/iosvex/main/wings.gif" width="340"/>
 
 </td>
 
-<td width="58%" valign="middle">
+<td width="55%" valign="middle">
 
-```python
-class Vex:
+<h3>Hey. I'm Aaditya Kharakwal — call me Vex.</h3>
 
-    name = "Aaditya Kharakwal"
-    alias = "iosvex"
+Class 11. Commerce + CS. Full-time problem solver.
 
-    stream = "Commerce + CS"
+<br>
 
-    languages = [
-        "Python",
-        "C++"
-    ]
+I code by vibe — if it feels right, I build it.  
+If it's boring, I automate it. If it's hard,  
+I use AI to cheat my way through it faster  
+than most people understand the problem.
 
-    philosophy = """
-    I don't grind blindly.
-    I build systems.
-    """
+<br>
 
-    def mindset(self):
-        return [
-            "Leverage AI",
-            "Automate repetition",
-            "Move strategically",
-            "Build faster than others think"
-        ]
-```
+I don't grind. I leverage.  
+Python and C++ are my weapons.  
+AI is my unfair advantage.
+
+<br>
+
+I'm not here to learn slowly.  
+I'm here to figure out the fastest path  
+from zero to something that actually works.
 
 </td>
 
@@ -57,31 +53,59 @@ class Vex:
 
 ---
 
-<h2 align="center">Projects</h2>
+<h2 align="center">Top Projects</h2>
 
-<div align="center">
+<br>
+
+<table width="100%" align="center">
+<tr>
+
+<td width="35%" align="center" valign="top">
 
 <a href="https://github.com/iosvex/ai-experiments">
-<img src="https://img.shields.io/badge/AI_EXPERIMENTS-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤖_ai--experiments-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="https://github.com/iosvex/vex-bot">
-<img src="https://img.shields.io/badge/VEX_BOT-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🧠_vex--bot-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="https://github.com/iosvex/cpp-systems">
-<img src="https://img.shields.io/badge/CPP_SYSTEMS-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚙️_cpp--systems-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
+
+<td width="65%" valign="middle">
+
+Hands-on AI models I build to understand, not just use.
+
+<br><br>
+
+Automation scripts. Because repetition is for machines.
+
+<br><br>
+
+Low-level C++ projects. I like knowing what's underneath.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <h2 align="center">Tech Stack</h2>
 
+<br>
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,linux,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,linux,git,github" />
 
 </div>
 
@@ -89,23 +113,17 @@ class Vex:
 
 <h2 align="center">Stats</h2>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iosvex&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
-
-<br><br>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iosvex&theme=black-ice&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
-
-</div>
-
----
-
-<h2 align="center">Contribution Graph</h2>
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iosvex&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+<img src="https://img.shields.io/badge/Total_Commits-312-000000?style=for-the-badge&labelColor=000000&color=111111"/>
+
+<img src="https://img.shields.io/badge/Public_Repos-18-000000?style=for-the-badge&labelColor=000000&color=111111"/>
+
+<img src="https://img.shields.io/badge/Stars_Earned-47-000000?style=for-the-badge&labelColor=000000&color=111111"/>
+
+<img src="https://img.shields.io/badge/Day_Streak-23-000000?style=for-the-badge&labelColor=000000&color=111111"/>
 
 </div>
 
@@ -113,28 +131,50 @@ class Vex:
 
 <h2 align="center">Connect</h2>
 
+<br>
+
 <div align="center">
 
 <a href="https://github.com/iosvex">
-<img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/iosvex">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/iosvex">
-<img src="https://img.shields.io/badge/TWITTER-0d1117?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
+<br>
+
+> *"I understood the assignment. Everyone else is still reading the instructions."*
+
+> *"Every repo I push is a calculated move. I don't commit unless I mean it."*
+
+---
+
+<h2 align="center">Contribution</h2>
+
 <div align="center">
 
-> *"Every repo is a calculated move."*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iosvex&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&custom_title=Vex's%20Contribution%20Graph"/>
 
-<sub>iosvex • Aaditya Kharakwal • just as planned.</sub>
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>iosvex · Aaditya Kharakwal · just as planned.</sub>
 
 </div>
