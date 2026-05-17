@@ -16,7 +16,7 @@
 <tr>
 <td width="200" align="center" valign="middle">
 
-![wings](https://raw.githubusercontent.com/iosvex/iosvex/main/wings.webp)
+![wings](https://raw.githubusercontent.com/iosvex/iosvex/main/wings.gif)
 
 </td>
 <td width="30"></td>
