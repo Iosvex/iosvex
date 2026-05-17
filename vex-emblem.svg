@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="
+        1 0 0 0 0
+        0 1 0 0 0
+        0 0 1 0 0
+        0 0 0 0.85 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f5f5"/>
+      <stop offset="100%" stop-color="#bfbfbf"/>
+    </linearGradient>
+  </defs>
+
+  <g filter="url(#softGlow)" opacity="0.98">
+    <!-- central core -->
+    <path d="M250 108
+             C235 112, 220 128, 214 148
+             C205 177, 214 206, 230 226
+             C240 239, 244 253, 244 270
+             C244 290, 238 309, 224 326
+             C216 337, 212 348, 212 359
+             C212 386, 235 406, 258 406
+             C283 406, 302 387, 302 361
+             C302 347, 298 334, 289 323
+             C275 305, 268 287, 268 268
+             C268 252, 273 238, 285 225
+             C303 205, 312 176, 304 148
+             C298 128, 282 112, 267 108
+             C261 106, 256 105, 250 108Z"
+          fill="url(#ink)" opacity="0.24"/>
+
+    <!-- left wing -->
+    <path d="M233 166
+             C205 152, 171 156, 141 176
+             C113 195, 96 223, 94 255
+             C92 286, 106 316, 132 337
+             C152 353, 176 361, 198 360
+             C172 344, 159 326, 158 307
+             C157 286, 169 267, 188 253
+             C205 241, 227 236, 247 239
+             C242 224, 236 195, 233 166Z"
+          stroke="url(#ink)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"
+          opacity="0.92">
+      <animate attributeName="opacity" values="0.74;0.98;0.74" dur="4.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0; -2 -1; 0 0" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- right wing -->
+    <path d="M279 166
+             C307 152, 341 156, 371 176
+             C399 195, 416 223, 418 255
+             C420 286, 406 316, 380 337
+             C360 353, 336 361, 314 360
+             C340 344, 353 326, 354 307
+             C355 286, 343 267, 324 253
+             C307 241, 285 236, 265 239
+             C270 224, 276 195, 279 166Z"
+          stroke="url(#ink)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"
+          opacity="0.92">
+      <animate attributeName="opacity" values="0.74;0.98;0.74" dur="4.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 2 -1; 0 0" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- feather lines -->
+    <path d="M160 236 C183 228, 205 227, 226 234" stroke="url(#ink)" stroke-width="6" stroke-linecap="round" opacity="0.78">
+      <animate attributeName="stroke-dasharray" values="0,120; 120,0; 0,120" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M146 265 C174 255, 203 255, 231 263" stroke="url(#ink)" stroke-width="6" stroke-linecap="round" opacity="0.72">
+      <animate attributeName="stroke-dasharray" values="0,120; 120,0; 0,120" dur="6.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M166 296 C188 290, 210 290, 230 296" stroke="url(#ink)" stroke-width="6" stroke-linecap="round" opacity="0.66">
+      <animate attributeName="stroke-dasharray" values="0,120; 120,0; 0,120" dur="6.8s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M352 236 C329 228, 307 227, 286 234" stroke="url(#ink)" stroke-width="6" stroke-linecap="round" opacity="0.78">
+      <animate attributeName="stroke-dasharray" values="0,120; 120,0; 0,120" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M366 265 C338 255, 309 255, 281 263" stroke="url(#ink)" stroke-width="6" stroke-linecap="round" opacity="0.72">
+      <animate attributeName="stroke-dasharray" values="0,120; 120,0; 0,120" dur="6.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M346 296 C324 290, 302 290, 282 296" stroke="url(#ink)" stroke-width="6" stroke-linecap="round" opacity="0.66">
+      <animate attributeName="stroke-dasharray" values="0,120; 120,0; 0,120" dur="6.8s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- hanging smoke -->
+    <path d="M248 314 C239 330, 237 347, 242 365" stroke="url(#ink)" stroke-width="7" stroke-linecap="round" opacity="0.6">
+      <animate attributeName="d" dur="5s" repeatCount="indefinite"
+        values="M248 314 C239 330, 237 347, 242 365;
+                M248 314 C234 331, 242 348, 236 365;
+                M248 314 C239 330, 237 347, 242 365"/>
+    </path>
+    <path d="M264 314 C273 330, 275 347, 270 365" stroke="url(#ink)" stroke-width="7" stroke-linecap="round" opacity="0.6">
+      <animate attributeName="d" dur="5s" repeatCount="indefinite"
+        values="M264 314 C273 330, 275 347, 270 365;
+                M264 314 C278 331, 270 348, 276 365;
+                M264 314 C273 330, 275 347, 270 365"/>
+    </path>
+  </g>
+</svg>
