@@ -18,7 +18,7 @@ Most people waste time learning slowly.
 I prefer understanding patterns, exploiting leverage,  
 and building things before others even understand them.
 
-Python and C++ are my primary tools.  
+Html,Css & Js are my primary tools.  
 AI is not a shortcut to me — it's force multiplication.
 
 I like low-level systems, automation, strategy,  
